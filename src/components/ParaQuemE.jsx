@@ -1,0 +1,1 @@
+﻿export {ParaQuemE as default} from './Sections.jsx'

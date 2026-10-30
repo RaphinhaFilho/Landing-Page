@@ -1,0 +1,1 @@
+﻿export {CaseSucesso as default} from './Sections.jsx'

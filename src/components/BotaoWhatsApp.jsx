@@ -1,0 +1,1 @@
+﻿export {BotaoWhatsApp as default} from './Sections.jsx'

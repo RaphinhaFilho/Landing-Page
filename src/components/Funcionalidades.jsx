@@ -1,0 +1,1 @@
+﻿export {Funcionalidades as default} from './Sections.jsx'
